@@ -37,7 +37,7 @@
     <property name="geometry">
      <rect>
       <x>50</x>
-      <y>50</y>
+      <y>48</y>
       <width>56</width>
       <height>12</height>
      </rect>
@@ -59,7 +59,7 @@
      <string notr="true">border:1px solid rgb(55, 111, 166);</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="searchBtn">
     <property name="geometry">
      <rect>
       <x>549</x>
@@ -77,7 +77,7 @@
      <rect>
       <x>20</x>
       <y>90</y>
-      <width>621</width>
+      <width>620</width>
       <height>251</height>
      </rect>
     </property>

@@ -10,10 +10,10 @@ start = 1  # 검색시작위치 1
 
 result = naverApi.naverSearch(node, searchKeyword, start, display)
 
-# print(result)
+print(result)
 
 items = result['items']
-# print(items)
+print(items)
 
 def clearTitle(title):
     resultStr = title.replace('&quot','').replace('<b>','').replace('</b>','').replace(';','')
